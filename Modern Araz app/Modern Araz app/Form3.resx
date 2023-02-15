@@ -1,0 +1,107 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        QmCC
+</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Bildiyiniz kimi qardaş Türkiyədə zərzələ təbii fəlakətləri baş verir və bu sebebdən ordakı şəhərlər yerlə yersan olur bunun üçün 
+Araz şirkəti qardaş ölkəni destəkləmək üçün onlara dəstək göndərib.
+Bizim istədiyimizdə bundan ibaretdir ki sizdə bu çətin vaxtlarda onları dəstəkləyin
+
+
+
+</value>
+  </data>
+</root>

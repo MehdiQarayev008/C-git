@@ -1,0 +1,22 @@
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\bin\Debug\net6.0-windows\Modern Araz app.exe
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\bin\Debug\net6.0-windows\Modern Araz app.deps.json
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\bin\Debug\net6.0-windows\Modern Araz app.runtimeconfig.json
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\bin\Debug\net6.0-windows\Modern Araz app.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\bin\Debug\net6.0-windows\Modern Araz app.pdb
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.csproj.AssemblyReference.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern_Araz_app.Form1.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern_Araz_app.Form2.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern_Araz_app.Properties.Resources.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.csproj.GenerateResource.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.AssemblyInfoInputs.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.AssemblyInfo.cs
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.csproj.CoreCompileInputs.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\refint\Modern Araz app.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.pdb
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern Araz app.genruntimeconfig.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\ref\Modern Araz app.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern_Araz_app.Form3.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern_Araz_app.Form4.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Modern Araz app\Modern Araz app\obj\Debug\net6.0-windows\Modern_Araz_app.Form5.resources
